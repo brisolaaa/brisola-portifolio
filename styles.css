@@ -8,7 +8,7 @@
 body {
     line-height: 1.6;
     color: #fff;
-    background-color: #1e1e2f; /* Fundo escuro com tom de azul escuro */
+    background-color: #1e1e2f; 
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(90deg, #A50044, #004D98); /* Gradiente grená e azul */
+    background: linear-gradient(90deg, #A50044, #004D98); 
     color: white;
     text-align: center;
     padding: 2rem 0;
@@ -29,7 +29,7 @@ body {
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #FFD700; /* Bordas amarelas */
+    border: 3px solid #FFD700;
 }
 
 .sobre, .trabalhos, .servicos, .depoimentos, .contato {
@@ -39,7 +39,7 @@ body {
 h2 {
     margin-bottom: 1rem;
     text-align: center;
-    color: #FFD700; /* Amarelo vibrante */
+    color: #FFD700; 
 }
 
 ul {
@@ -62,27 +62,27 @@ ul li {
 .galeria figure {
     width: calc(33.333% - 1rem);
     text-align: center;
-    background: #222; /* Fundo neutro */
+    background: #222; 
     padding: 0.5rem;
     border-radius: 8px;
-    border: 2px solid #004D98; /* Azul Barcelona */
+    border: 2px solid #004D98; 
 }
 
 .galeria img {
     max-width: 100%;
     border-radius: 8px;
-    border: 2px solid #A50044; /* Grená */
+    border: 2px solid #A50044; 
 }
 
 footer {
-    background: #004D98; /* Azul Barcelona */
+    background: #004D98;
     color: white;
     text-align: center;
     padding: 1rem 0;
 }
 
 footer a {
-    color: #FFD700; /* Amarelo */
+    color: #FFD700; 
     text-decoration: none;
 }
 
@@ -101,7 +101,7 @@ blockquote cite {
     display: block;
     margin-top: 0.5rem;
     font-style: italic;
-    color: #FFD700; /* Amarelo */
+    color: #FFD700; 
 }
 
 a {
@@ -110,5 +110,5 @@ a {
 }
 
 a:hover {
-    color: #A50044; /* Grená */
+    color: #A50044; 
 }
